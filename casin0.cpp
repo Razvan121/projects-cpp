@@ -37,7 +37,7 @@ int main()
             continue;
         }
 
-        cout<<"guess one :- ";
+        cout<<"guess one number between 1-10 :- ";
         int n;
         cin>>n;
         if(n>10 || n<=0){
